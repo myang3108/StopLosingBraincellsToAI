@@ -42,7 +42,7 @@ You can also just talk: say **"eli5 that"**, **"eli15"**, or **"explain it like 
 ## Layout
 
 ```
-Teacher/
+StopLosingBraincellsToAI/
 ├── README.md              ← you are here
 ├── CLAUDE.md              ← the Teaching Contract (rules every session follows)
 ├── learner-profile.md     ← how you learn, built up over time
