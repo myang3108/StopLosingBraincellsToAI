@@ -1,6 +1,6 @@
-# Michael's Personal Tutoring Harness
+# My Personal Tutoring Harness
 
-An agentic learning system that runs inside Claude Code. It teaches any topic through a closed feedback loop and refuses to move on until you actually understand — no fact-regurgitation, no jumping ahead.
+An agentic learning system that runs inside Claude Code. It teaches any topic through a closed feedback loop and refuses to move on until you actually understand what's going on
 
 ## How it works
 
