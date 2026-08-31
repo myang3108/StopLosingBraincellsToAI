@@ -31,8 +31,6 @@ The loop only ends when the roadmap is complete **and** you pass the final exam.
 
 You can also just talk: say **"eli5 that"**, **"eli15"**, or **"explain it like I'm an intern"** mid-lesson to change how explanations are pitched, instantly.
 
-## What makes it different
-
 - **Tests understanding, not memory.** Every quiz question is generative: explain it back with a *new* analogy, solve a problem you haven't seen, predict an edge case, find the flaw in a wrong claim. Never multiple choice, never fact recall.
 - **Strict gates.** ~85% to pass a unit — a coherent teach-back AND a solved transfer problem. Fail, and the exact misconception gets named, logged, and retaught from a different angle (new analogy → concrete numbers → diagram → code) with fresh questions.
 - **Learns how you learn.** [learner-profile.md](learner-profile.md) accumulates evidence about which explanations land for you, your recurring error patterns, and your interests (used as analogy anchors). Every lesson reads it first.
